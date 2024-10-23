@@ -79,7 +79,7 @@ public class NhanVien {
 
     public void ChuanHoaNgaySinh () {
         if (!this.NgaySinh.matches("\\d{1,2}/\\d{1,2}/\\d{4}")) {//kiểm tra xem chuỗi NgaySinh có khớp với định dạng không dd/mm/yyyy;
-            System.out.println("Ngày sinh không hợp lệ! Vui lòng nhập theo định dạng DD/MM/YYYY.");
+            System.out.println("Invalid date of birth! Please enter in DD/MM/YYYY format.");
             return; // Thoát khỏi nếu định dạng không hợp lệ
         }
     }
