@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/code/PTITSTORE/src/Model/Category.java</file>
+            <file>file:/C:/code/PTITSTORE/src/PtitstoreGUI/Payment.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Dao/BillDao.java</file>
+            <file>file:/C:/code/PTITSTORE/src/PtitstoreGUI/DetailBill.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Model/Role.java</file>
+            <file>file:/C:/code/PTITSTORE/src/PtitstoreGUI/UpdateUser.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Dao/BillDetailDao.java</file>
+            <file>file:/C:/code/PTITSTORE/src/PtitstoreGUI/Home.java</file>
+            <file>file:/C:/code/PTITSTORE/src/PtitstoreGUI/SignUp.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Model/User.java</file>
+            <file>file:/C:/code/PTITSTORE/src/event/ClickAddCart.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Model/ProductPayment.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Dao/ProductDao.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Model/Product.java</file>
+            <file>file:/C:/code/PTITSTORE/src/PtitstoreGUI/UpdateProduct.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Model/Bill.java</file>
+            <file>file:/C:/code/PTITSTORE/src/PtitstoreGUI/AddProduct.java</file>
+            <file>file:/C:/code/PTITSTORE/src/Dao/UserDao.java</file>
+            <file>file:/C:/code/PTITSTORE/src/MaHoaMk/Hambam.java</file>
+        </group>
+    </open-files>
+</project-private>
